@@ -6,6 +6,7 @@ Free and Strong Anti Virus written by python. (File Scan , Url Scan) .
 ```
 git clone https://github.com/TheSadError/EPP
 cd EPP
+sudo pip3 install -r req.txt
 sudo python3 epp.py
 
 ```
