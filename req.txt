@@ -1,0 +1,6 @@
+colorama
+time
+virustotal_python
+os
+pprint
+base64
